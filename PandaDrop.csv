@@ -1,4 +1,4 @@
-"VideoAnalysis: Time (s)","VideoAnalysis: X (m)","VideoAnalysis: Y (m)","VideoAnalysis: X Velocity (m/s)","VideoAnalysis: Y Velocity (m/s)"
+"Time (s)","X (m)","Y (m)","X Velocity (m/s)","Y Velocity (m/s)"
 3.267,1.90793516572,1.98063103817,-0.0220434972711,-1.13836567997
 3.3,1.90467799225,1.94480212992,0.0504717175203,-1.24672786132
 3.333,1.9111923392,1.90571604819,0.0810851363182,-1.47268283296
